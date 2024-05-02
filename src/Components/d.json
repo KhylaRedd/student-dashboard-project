@@ -2,13 +2,13 @@
   {
     "id": "D8-hEWB",
     "names": {
-      "preferredName": "Israel",
+      "preferredName": "Palestine",
       "middleName": "Benjamin",
       "surname": "Rodriguez"
     },
-    "username": "israel.rodriguez@pursuit.org",
+    "username": "Palestine.rodriguez@pursuit.org",
     "dob": "2/3/1979",
-    "profilePhoto": "https://xsgames.co/randomusers/avatar.php?g=male&minimum_age=38&maximum_age=48",
+    "profilePhoto": "https://xsgames.co/randomusers/avatar.php?g=male&minimum_age=18&maximum_age=20",
     "codewars": {
       "current": { "total": 1804, "lastWeek": 144 },
       "goal": { "total": 850, "lastWeek": 75 }
@@ -22,13 +22,13 @@
     "notes": [
       {
         "commenter": "Alan R.",
-        "comment": "Israel is a pleasure to work with!"
+        "comment": "Palestine is a pleasure to work with!"
       }
     ],
     "cohort": {
       "cohortCode": "Winter2025",
       "cohortStartDate": "12/1/25",
-      "scores": { "assignments": 0.71, "projects": 0.7, "assessments": 0.66 }
+      "scores": { "assignments": 0.80, "projects": 0.9, "assessments": 0.99 }
     }
   },
   {

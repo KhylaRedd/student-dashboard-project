@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+} 
+
+#root {
+    
+    border: 2px solid; 
+    height: 100vh;
+    /* padding: 2%; */
+    width: 100vw;
+    
+}
+
+.container {
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    grid-template-rows: 1fr 7fr;
+    grid-template-areas: 
+    "NavBar NavBar"
+    "Section Main";
+}
